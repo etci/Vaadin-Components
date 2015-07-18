@@ -1,1 +1,0 @@
-$wnd.tr_biz_vardar_customtable_MyAppWidgetset.runAsyncCallback2('tbb(1546,1,IUd);_.uc=function X9b(){$Xb((!TXb&&(TXb=new dYb),TXb),this.a.d)};mOd(Qh)(2);\n//# sourceURL=tr.biz.vardar.customtable.MyAppWidgetset-2.js\n')
