@@ -1,4 +1,4 @@
-package tr.biz.vardar.test;
+package tr.biz.vardar.customtable;
 
 import javax.servlet.annotation.WebServlet;
 
@@ -14,7 +14,7 @@ import com.vaadin.ui.VerticalLayout;
  *
  */
 @Theme("mytheme")
-@Widgetset("tr.biz.vardar.test.MyAppWidgetset")
+@Widgetset("tr.biz.vardar.customtable.MyAppWidgetset")
 public class MyUI extends UI {
 
 	@Override

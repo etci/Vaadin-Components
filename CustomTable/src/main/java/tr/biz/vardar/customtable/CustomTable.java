@@ -1,5 +1,5 @@
 
-package tr.biz.vardar.test;
+package tr.biz.vardar.customtable;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;

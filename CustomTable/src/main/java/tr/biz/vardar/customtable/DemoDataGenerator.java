@@ -1,7 +1,7 @@
 /**
  *
  */
-package tr.biz.vardar.test;
+package tr.biz.vardar.customtable;
 
 import java.util.ArrayList;
 import java.util.List;

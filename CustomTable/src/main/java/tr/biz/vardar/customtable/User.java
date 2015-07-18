@@ -1,4 +1,4 @@
-package tr.biz.vardar.test;
+package tr.biz.vardar.customtable;
 
 public class User {
 
