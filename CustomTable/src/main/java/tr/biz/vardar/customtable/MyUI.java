@@ -13,6 +13,7 @@ import com.vaadin.ui.VerticalLayout;
 /**
  *
  */
+
 @Theme("mytheme")
 @Widgetset("tr.biz.vardar.customtable.MyAppWidgetset")
 public class MyUI extends UI {
