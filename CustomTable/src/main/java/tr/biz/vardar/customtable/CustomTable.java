@@ -1,4 +1,3 @@
-
 package tr.biz.vardar.customtable;
 
 import java.lang.reflect.InvocationTargetException;
