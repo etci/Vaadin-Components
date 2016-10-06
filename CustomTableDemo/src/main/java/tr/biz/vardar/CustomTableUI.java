@@ -32,6 +32,7 @@ public class CustomTableUI extends UI {
 
 	@Override
 	protected void init(VaadinRequest request) {
+	        System.out.println("CustomTableUI");
 		final VerticalLayout layout = new VerticalLayout();
 		layout.setMargin(true);
 		setContent(layout);
